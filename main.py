@@ -27,3 +27,12 @@ elif paint == "right":
     print("I am painting in the right direction!")
 else:
     print("Your input is incorrect")
+
+# Activity 4
+
+number = int(input("Please enter a whole number"))
+if (number % 2) == 0:
+    print(f"The number {number} is an even number.")
+else:
+    print(f"The number {number} is an odd number.")
+
