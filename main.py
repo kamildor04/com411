@@ -36,3 +36,21 @@ if (number % 2) == 0:
 else:
     print(f"The number {number} is an odd number.")
 
+# Activity 5
+
+number1 = int(input("Please enter a first whole number"))
+number2 = int(input("Please enter a second whole number"))
+if number1 < number2:
+    print("The first number is the biggest")
+else:
+    print("The second number is the smallest")
+
+# Activity 6
+
+for()
+
+number1 = int(input("Please enter a first whole number"))
+number2 = int(input("Please enter a second whole number"))
+number3 = int(input("Please enter a third whole number"))
+
+if (number % 2) == 0:
