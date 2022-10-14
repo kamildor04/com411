@@ -14,3 +14,16 @@ if activity == "calculate":
 print("Activity completed!")
 
 # Activity 3
+
+paint = input("Towards which direction should I paint (up, down, left or right)? ")
+
+if paint == "up":
+    print("I am painting in the upward direction!")
+elif paint == "down":
+    print("I am painting in the down direction!")
+elif paint == "left":
+    print("I am painting in the left direction!")
+elif paint == "right":
+    print("I am painting in the right direction!")
+else:
+    print("Your input is incorrect")
